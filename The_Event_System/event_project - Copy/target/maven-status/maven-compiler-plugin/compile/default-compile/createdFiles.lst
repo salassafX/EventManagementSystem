@@ -1,0 +1,9 @@
+com\mycompany\event_project\Attende.class
+com\mycompany\event_project\DB.class
+com\mycompany\event_project\Organizer.class
+com\mycompany\event_project\Admin.class
+com\mycompany\event_project\Log_sginup$LoginAction.class
+com\mycompany\event_project\EventProject.class
+com\mycompany\event_project\Log_sginup.class
+com\mycompany\event_project\Signup$RegisterAction.class
+com\mycompany\event_project\Signup.class
